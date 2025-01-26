@@ -1,3 +1,7 @@
+//Hello World!
+//Author : Manjunatha Sarma Majety
+//Date of Creation : 12 October 2024
+//19 year old, Male, pursuing an undergraduate degree in engineering.
 // My first try at a personal encryption software
 // By no definition is this a proper encryption program, but well its the beginning of a pursuit
 //This is my first program, to replace the letters of a sentence with different letters.
